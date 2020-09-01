@@ -75,7 +75,7 @@ python test_depthcomp.py --val_data_dir data/filenames/depth_vals.txt --root_dir
 ```
 
 ### Pre-trained Models
-Download the pre-trained models [here](https://drive.google.com/file/d/1dyfrUVM6K-ID6m4OMprW5BSSeNVC0mhG/view?usp=sharing). 
+Download the pre-trained models [here](https://drive.google.com/file/d/1ZhrmjPFwb9sgBRSD-4FHXnSQbrhjXFuu/view?usp=sharing). 
 Then unzip the pre-trained model to folder 'results'.
 
 Note: The model is trained using KITTI dataset 
