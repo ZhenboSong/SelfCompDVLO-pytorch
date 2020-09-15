@@ -1,6 +1,6 @@
 # SelfCompDVLO-pytorch
 
-This repository contains a reference implementation of the algorithms described in our paper (submitted to IEEE TVT) ["Self-supervised Depth Completion from Direct Visual-LiDAR Odometry in Autonomous Driving"]().
+This repository contains a reference implementation of the algorithms described in our paper (submitted to IEEE TITS) ["Self-supervised Depth Completion from Direct Visual-LiDAR Odometry in Autonomous Driving"]().
 
 
 ## Introduction
