@@ -88,5 +88,5 @@ coming soon...
 
 
 ## References
-The code refers to the ['sparse-to-dense'](https://github.com/fangchangma/sparse-to-dense)
+1. ['sparse-to-dense'](https://github.com/fangchangma/sparse-to-dense)
 
